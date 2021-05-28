@@ -1,0 +1,46 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp2300/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+# collaboration:
+#   - name:
+#     comment: >-
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Partial of the codes are from the COMP2300 Assignment2 Part1 
+    url:     n/a (from my own work)
+    licence: n/a (from my own work)
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Song "Uchiage anabi" by "DAOKO" and "Yonezu Kenshi"
+    url: https://www.youtube.com/watch?v=7k7rB4eV3_0
+    licence: Fair Use
+  - comment: Song "Astronomia" by "Vicetone"
+    url: https://www.youtube.com/watch?v=iLBBRuVDOo4
+    licence: Fair Use
+  - comment: Score for the song "Uchiage anabi" by "DAOKO" and "Yonezu Kenshi"
+    url: http://www.gangqinpu.com/html/32369.htm
+    licence: Fair Use
+  - comment: Score for the song "Astronomia" by "Vicetone"
+    url: http://www.gangqinpu.com/html/935822.htm
+    licence: Fair Use
+  - comment: Tuning for Notes are done with help from the site's note/frequency table
+    url: https://pages.mtu.edu/~suits/notefreqs.html
+    licence: Fair Use
+
+
+# sign *your* name and uid here
+name: Suowei Hu
+uid:  u6966459

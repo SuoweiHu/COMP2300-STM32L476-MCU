@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "comp2300-2020-assignment-2"
+		}
+	],
+	"settings": {
+		"comp2300.gdb.server": "stutil",
+		"files.associations": {
+			"*.S": "arm"
+		},
+		"yaml.schemas": {
+			"https://cs.anu.edu.au/courses/comp2300/assets/schemas/statement-of-originality.json": "/statement-of-originality.yml"
+		},
+		"extensions.ignoreRecommendations": true
+	}
+}
